@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a,O as r}from"./chunks/framework.efd27913.js";const m=JSON.parse('{"title":"方法和响应码","description":"","frontmatter":{},"headers":[],"relativePath":"方法和响应码.md","filePath":"方法和响应码.md"}'),o={name:"方法和响应码.md"},d=r("",11),_=[d];function h(s,n,c,i,l,p){return e(),a("div",null,_)}const b=t(o,[["render",h]]);export{m as __pageData,b as default};
